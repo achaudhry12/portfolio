@@ -295,19 +295,11 @@ section .title{
 .skills-content .right .wire::before{
   width: 95%;
 }
-.contact .contact-content .column{
+/* .contact .contact-content .{
   width: calc(50% - 30px);
-}
-.contact .contact-content .text{
-  font-size: 20px;
-  font-weight: 600;
-  margin-bottom: 10px;
-}
-.contact .contact-content .left p{
+} */
+.contact .contact-content p{
   text-align: justify;
-}
-.contact .contact-content .left .icons{
-  margin: 10px 0;
 }
 .contact .contact-content .row{
   display: flex;
@@ -329,7 +321,7 @@ section .title{
 .contact .contact-content .info .sub-title{
   color: white;
 }
-.contact .right form .fields{
+/* .contact .right form .fields{
   display: flex;
 }
 .contact .right form .field,
@@ -386,7 +378,7 @@ resize: none;
 .right form .button-area button:hover{
   color: #005493;
   background: none;
-}
+} */
 
 @media (max-width: 1104px) {
   .about .about-content .left img{
