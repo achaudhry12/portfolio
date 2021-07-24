@@ -445,7 +445,7 @@ resize: none;
   .about .about-content .right{
       flex: 100%;
   }
-  .projects .project-content .card{
+  .projects .project-content a{
       width: calc(50% - 10px);
       margin-bottom: 20px;
   }
@@ -468,7 +468,7 @@ resize: none;
   .home .home-content a{
       font-size: 20px;
   }
-  .projects .project-content .card{
+  .projects .project-content a{
       width: 100%;
   }
 }
